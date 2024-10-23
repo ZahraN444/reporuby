@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'package'
-  s.version = '3.4.3'
+  s.version = '6.5.6'
   s.summary = 'sumamry test'
   s.description = 'test'
   s.authors = ['zahra']
